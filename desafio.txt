@@ -1,0 +1,36 @@
+1)Descreva o passo a passo de como cria um projeto até dar o push.
+-->	Abri a pasta do repositório e dentro dela pelo botão direito entrei no "git bash". Após entrar, fui ao site do Github e criei um novo repositório e o chamei de "repositorioCamoes", ao terminar
+o processo de criar tornei o repositório em público, ativei o "README" e copiei o código da pasta do Github. Voltei ao "git bash" anteriormente aberto e utilizei a "tag"; "git clone" e coloquei o
+código copiado do Github, após a identificação do "Git" utilizei o a "tag" "cd" e coloquei o nome do repositório adicionado no Github, "repositorioCamoes", esperei novamente pela atualização do 
+versionamento para utilizar a "tag" "git add . ", logo, foi adicionada a pasta esse ".txt", assim, pude finalmente dar "git commit -m "repositorioCamoes"" e dar o comando "git push", após isso, 
+esse trabalho foi salvo e redirecionado ao Github.
+
+2)Por que usar a tomada de decisão beseada em dados?
+--> 	A decisão baseada em dados é mais eficaz, pois, dá uma noção palpável do que deve ser feito em relação a conteúdo desejado. Portanto, ao observar os
+dados fornecidos, temos uma margem de erro para calcular os gastos, deduzir uma margem de lucro, uma expectativa de vida do produto etc;Logo, a
+quantificação dos dados dá uma segurança a mais aos investidores e adiministradores de empresas, ou seja, cria um ambiente mais favorável à todos.
+
+3)Em que fase de processo de análise o analista cria a visualização de dados e uma apresentação de slides?
+-->	O processo de análise de dados são divididos em seis partes, tendo como integrantes: Perguntar, preparação, processamento, análise, compartilhamento e ação. A fase que o analista cria a visualização
+é durante a fase de gráficos (quarta fase), e há cinco tipos de gráficos o de "pizza", linhas, barras, área e histograma.
+
+4)Qual é a diferença entre dados quantitativos e qualitativos?
+--> 	Os dados quantitativos mostram números que comprovam o objetivo geral da pesquisa, ou seja, caso uma loja de sorvete queira saber qual sabor sai mais,
+só será necessário ver a relação de vendas entre ou produtos, os que vendem mais e os que vendem menos, a partir dos dados obtidos pela lista de vendas ao final do dia, baseado na análise de dados.
+E os dados qualitativos mostram informações mais complexas em relações dos dados obtidos, ou seja, pegando a mesma loja de sorvetes,
+seria uma pesquisa escrita ou falada, perguntando diretamente ao cliente qual é o seu sabor favorito e o menos favorito de sorvete,
+com o objetivo de ter noção de qual sabor sairá mais e qual sairá menos, baseado basicamente pela interpretação e experiência do cliente.
+
+5)Faça um resumo sobre o que aprendeu do workshop de introdução a análise de dados, pode ser em apenas um parágrafo no máximo 15 linhas.
+--> 	Primeiramente, durante a apresentação do slide, aprendemos a diferenciar os tipos de dados entre: qualitativos, quantitativos, estruturados e não estruturados. Mesmo todos sendo dados,
+há sim uma diferenciação entre cada um, qualitativo, medidas subjetivas; quantitativos, medidas numéricos; estruturados, medidas determinado formatos como linhas e colunas; e não estruturados,
+medidas que são organizadas de uma maneira não tão bem definida.
+	Logo após a essa explicação, foi mostrado o que é Data Driven Decision-Making nada mais é que utilizar de dados para estratégias de mercado. Um vídeo foi passado para tornar mais dinâmica a explicação.
+E nele dizia que, todo analista de dados deve ter cinco habilidades: curiosidade; contexto; mentalidade técnica; design de dados e estratégia de
+dados.
+	Foi explicado também o conceito e o processo da análise, o conceito de análise é de, extrair insights a partir de informações coletadas por diversas fontes da empresa. Como foi explicado, a análise
+tem como objetivo deixar a comunicação entre gerentes e executivos mais segura no ponto de vista da informação. Também nos foi dado o passo a passo da análise, contendo, planejamento, coleta e armazenamento
+de dados, tratamento dos dados e analisá-los, compartilhamento e tomada de decisão. Há também, quatro tipos de funções para os analitas de dados: ferramenta 1 é uma ferramenta artística para interpretar 
+conjunto de dade; ferramenta 2 é uma ferramenta para liderança política; ferramenta 3 é necessário colaborar com a equipe para desenvolver o sistema e a ferramenta 4 e criar uma documentação cadastrada.
+	Vimos também a o salário de um analista de dados, eles estão cresçendo assustadoramente, chegando a ser uma curva exponencial.
+	Para a compilação, tradução ou programação a melhor linguagens será o pyhton.
